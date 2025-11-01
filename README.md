@@ -20,3 +20,13 @@ test.txt — файл
 
 -rw-r--r-- 1 Vlad 197609 0 Nov  1 20:11 test.txt
 
+## Задание 2
+
+**Запуск скрипта:**
+
+$ ./task2.sh /home/user/newdir
+
+Текущее значение PATH: /c/Users/Влад/bin:/mingw64/bin:/usr/local/bin:...
+
+Обновленное значение PATH: /c/Users/Влад/bin:/mingw64/bin:/usr/local/bin:...:/home/user/newdir
+
